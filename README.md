@@ -17,3 +17,4 @@ Para adicionar um colaborador a um repositório no GitHub, acesse o repositório
 Commits;
 Issues;
 Pull Requests;
+# Continua
